@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.svn": false,
+        "paypal": true,
+        "send money or did u hacking your computer": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "explorer.excludeGitIgnore": true,
+    "editor.accessibilityPageSize": 500,
+    "editor.accessibilitySupport": "on"
+}
